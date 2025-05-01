@@ -1,0 +1,10 @@
+terraform.tfstate
+terraform.tfvars
+backend.tfvars
+backend.tf
+.terraform/
+.terraform.lock.hcl
+*.tfplan
+*.tfvars
+*.tfvars.json
+environments
